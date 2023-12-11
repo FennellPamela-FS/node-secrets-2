@@ -1,0 +1,14 @@
+{
+  "name": "week_3_repo2",
+  "version": "1.0.0",
+  "description": "This is a simple Node.js application that demonstrates the use of secrets in Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1"
+  }
+}
